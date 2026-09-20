@@ -13,7 +13,7 @@ I recently completed my technical training in Data Analysis and I'm currently bu
 - **Power BI** — Data modeling, DAX and interactive dashboards
 - **Excel** — Data analysis and reporting
 
-## 📊 Featured Project
+##  Featured Project
 
 ### Pharmaceutical Sales Analysis
 
@@ -21,7 +21,7 @@ End-to-end analysis of pharmaceutical sales data using **SQL Server, Python and 
 
 The project covers data preparation, validation, exploratory analysis, trend and seasonality analysis, interactive dashboards, and business-oriented insights.
 
-➡️ [View Pharmaceutical Sales Analysis](https://github.com/calimon2612-oss/Pharmaceutical-Sales-Analysis)
+ [View Pharmaceutical Sales Analysis](https://github.com/calimon2612-oss/Pharmaceutical-Sales-Analysis)
 
 ##  Currently Learning
 
